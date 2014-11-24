@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	   <meta charset="utf-8" />
+	   <title>John Baskerville</title>
+    <style> 
+        
+       body {background: #fcf4dc;
+           font-family: Baskerville, serif;
+           color: #666666;
+        }
+        
+        h1,h2,h3 {font-weight: normal;
+            text-align: center;
+            margin:5px 0 5px 0;
+        }
+        
+                
+        h1  {font-size: 36px;
+            text-transform:uppercase;
+            letter-spacing: 3px;
+            padding: 0px;
+            margin-top: 5px;
+            margin-bottom: 0px;
+        }   
+        
+        h2 {font-size: 26px;
+            margin-bottom: 25px;
+            
+        }
+                                        
+        .intro {font-style: italic;
+                font-size: 18px;
+                text-align: center;
+        }
+        
+        
+        .mantext {font-style: normal;
+            font-size:16px;
+            text-align: justify;
+            margin:10px;
+        }
+        
+        .subtitle { 
+            font-style: italic
+        }
+                
+       a   {
+           color:red;
+           text-decoration: none;
+           text-transform: uppercase;
+           letter-spacing: 2px;
+        }
+                
+        a:hover {
+            text-decoration: underline;
+            color:navy;
+        }
+        
+        nav {
+            border-top:1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+        }
+        
+        
+              
+        nav ul { 
+            text-align: center;
+            list-style-type: none;
+        }
+        
+        nav ul li {
+            display:inline;
+            margin:10px;
+                    }
+        
+        img {
+            display:block;
+            margin:0 auto ;
+        }
+        
+        
+        
+        </style>
+    
+    
+    </head>
+
+
+<body>
+    <article id="top">
+        <header>
+                <!-- add an image of JB here -->
+		  <img src="images/jbimage.jpg" alt="Portrait of John Baskerville"/>
+                <!-- this is the title of this piece -->
+		          <h1>John Baskerville</h1>
+                    <h2 class="subtitle">Letter Founder & Master Printer</h2>
+                        <nav>
+                            <ul>
+                                <li><a href="#the-man">The Man</a></li>
+                                <li><a href="#the-typeface">The Typeface</a></li>
+                                <li><a href="#mrs-eaves">Mrs Eaves</a></li>
+                            </ul>
+                        </nav>
+            
+        </header>
+
+    <section>
+           <p class ="intro"> John Baskerville (1706–1775) was an English businessman whose  entrepreneurial attentions included japanning and <em>papier-mâché</em>; he is, however, best remembered as a typographer and printer, not least for the design of the eponymous typeface which, to this very day, bears his name.</p>
+    </section>
+
+
+    <section>
+        <h1 id="the-man">The Man</h1>
+
+            <p class="mantext" > Baskerville was born in the village of Wolverley, near Kidderminster in Worcestershire, and worked as a printer in Birmingham. Baskerville printed works for the <em>University of Cambridge</em> and, although an atheist, printed a splendid folio bible in 1763. His typefaces were greatly admired by Benjamin Franklin, a printer and fellow member of the <em>Royal Society of Arts</em>, who took the designs back to the newly-created United States, where they were adopted for most federal government publishing.</p>
+
+            <p class="mantext">Baskerville was responsible for numerous innovations in printing, paper and ink production. He developed a technique which produced a smoother whiter paper which showcased his strong black type. He also pioneered a completely new style of typography, adding wide margins and generous leading to improve legibility.</p>
+
+            <blockquote>
+            <p>“Having been an early admirer of the beauty of letters, I became insensibly desirous of contributing to the perfection of them. I formed to myself ideas of greater accuracy than had yet appeared, and had endeavoured to produce a set of types according to what I conceived to be their true proportion.”</p>
+
+            <cite>—John Baskerville, preface to Milton, 1758 (Anatomy of a Typeface)</cite>
+            </blockquote>
+    </section>
+<footer>
+        <a href="#top">Back to top</a>                           
+</footer>
+    
+
+<hr />
+    <section>
+			<img src="images/jbfont.jpg" alt="John Baskerville typeface"/>
+        <h1 id="the-typeface">The Typeface</h1>
+
+	       <p>Baskerville is a Transitional serif typeface designed by John Baskerville in 1757, positioned between the Old Style typefaces of William Caslon, and the modern styles of Giambattista Bodoni and Firmin Didot.</p>
+
+	       <p>The typeface is the result of Baskerville’s intent to improve upon the types of William Caslon. He increased the contrast between thick and thin strokes, making the serifs sharper and more tapered, and shifted the axis of rounded letters to a more vertical position. The curved strokes are more circular in shape, and the characters became more regular. These changes created a greater consistency in size and form.</p>
+
+	       <p>Baskerville’s work was criticized by jealous competitors and soon fell out of favour. Since the 1920s, however, numerous revivals of Baskerville have been released by Linotype, Monotype, and other type foundries. Émigré released a popular revival of the typeface in 1996 called <em>Mrs Eaves</em>, named for Baskerville’s wife, Sarah Eaves. Baskerville represents the peak of Transitional type face design and bridges the gap between Old Style and Modern type design.</p>
+    </section>
+        <a href="#top">Back to top</a>
+<hr />
+    <section>
+		<img src="images/mrseavesfont.jpg" alt="Mrs Eaves typeface"/>
+        <h1 id="mrs-eaves">Mrs Eaves</h1>
+
+	       <p>Mrs Eaves is named after Sarah Eaves, the woman who became John Baskerville’s wife. As Baskerville was setting up his printing and type business, Mrs. Eaves moved in with him as a live-in housekeeper, eventually becoming his wife after the death of her first husband, Mr. Eaves. Mrs Eaves is a revival of the types of English printer and punchcutter John Baskerville, and is related to contemporary Baskerville typefaces.</p>
+
+	       <p>Like Baskerville, Mrs Eaves, cut by Zuzana Licko of Émigré, has a near vertical stress, departing from the Old Style model. Identifying characters, similar to Baskerville’s types, are the lowercase g with its open lower counter and swashlike ear. Both the roman and italic uppercase Q have a flowing swashlike tail. The uppercase C has serifs at top and bottom; there is no serif at the apex of the central junction in uppercase W; and the uppercase G has a sharp spur suggesting a vestigial serif.</p>
+    </section>
+            <a href="#top">Back to top</a>
+        
+        
+    <h1>Example of Typefaces designed by Baskerville</h1>
+<ul>
+  <li><strong>Hot Type Versions</strong></li>
+</ul>
+
+  <ol>
+    <li><a href="https://www.myfonts.com/foundry/Deberny_and_Peignot/"> Deberny and Peignot</a></li>
+    <li><a href="https://www.myfonts.com/foundry/Fry/"></a>Fry Foundry</li>
+    <li><a href="http://www.linotype.com/3367/americantypefounders.html"></a>American Type Founders</li>
+    <li>Linotype</li>
+    <li>Lanston Monotype</li>
+  </ol>
+
+<ul>
+  <li><strong>Cold Type Versions</strong></li>
+</ul>
+
+  <ol>
+    <li>Autologic</li>
+    <li>Berthold</li>
+    <li>Compugraphic</li>
+    <li>Hell AG</li>
+    <li>Monotype</li>
+  </ol>
+
+<ul>
+  <li><strong>Digital Versions</strong></li>
+</ul>
+
+  <ol>
+<li>Linotype</li>
+<li>URW++</li>
+<li>Monotype</li>
+<li>Bitstream</li>
+  </ol>
+        
+        <footer>
+	       <p><small>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</small></p>
+        <a href="https://github.com/vggreen">HTML by Victoria Green</a>
+        <a href="mailto:vggreen1@gmail.com" title="Get In Touch">Get In Touch</a>
+        </footer>
+
+    </article>
+</body>
+</html>
